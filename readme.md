@@ -23,6 +23,6 @@ Runs on node 14+ if you don't have that version of node, I highly recommend upgr
 11. Move that folder to `./server/inputData` so that it rests at `/server/inputData/messages` (you might have to create the inputData folder)
 12. `npm install` and `npm run start` in the server folder
 13. `npm install` and `npm run start` in the frontend
-14. It will probably as you to use port 3001, which is chill
+14. It will probably ask you to use port 3001, which is chill
 15. Go to `localhost:3001`
 16. Enjoy
