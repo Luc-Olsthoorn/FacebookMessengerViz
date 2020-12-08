@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FacebookMessengerViz/static/css/main.8c64dff9.chunk.css",
-    "main.js": "/FacebookMessengerViz/static/js/main.a57d11e2.chunk.js",
-    "main.js.map": "/FacebookMessengerViz/static/js/main.a57d11e2.chunk.js.map",
+    "main.js": "/FacebookMessengerViz/static/js/main.12e618af.chunk.js",
+    "main.js.map": "/FacebookMessengerViz/static/js/main.12e618af.chunk.js.map",
     "runtime-main.js": "/FacebookMessengerViz/static/js/runtime-main.b2828255.js",
     "runtime-main.js.map": "/FacebookMessengerViz/static/js/runtime-main.b2828255.js.map",
     "static/js/2.67dada12.chunk.js": "/FacebookMessengerViz/static/js/2.67dada12.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b2828255.js",
     "static/js/2.67dada12.chunk.js",
     "static/css/main.8c64dff9.chunk.css",
-    "static/js/main.a57d11e2.chunk.js"
+    "static/js/main.12e618af.chunk.js"
   ]
 }
